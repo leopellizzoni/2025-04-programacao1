@@ -26,5 +26,8 @@ int main(){
         }
     }
 
-    printf("\nForam informados %d valores no intervalo especificado.\n", qtdNumerosIntervalo);
+    printf("\nForam informados %d valores no intervalo [0-25].\n", qtdNumerosIntervalo1);
+    printf("\nForam informados %d valores no intervalo [26-50].\n", qtdNumerosIntervalo2);
+    printf("\nForam informados %d valores no intervalo [51-75].\n", qtdNumerosIntervalo3);
+    printf("\nForam informados %d valores no intervalo [76-100].\n", qtdNumerosIntervalo4);
 }
